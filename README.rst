@@ -8,7 +8,8 @@ to be updated and reformated to work with the newest release of boto.
 
 Dependencies
 ~~~~~~~~~~~~
-boto_
+boto_ - An integrated interface to current and future infrastructural
+services offered by Amazon Web Services.
 
 .. _boto: https://github.com/boto/boto
 
